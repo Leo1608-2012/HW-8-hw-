@@ -13,6 +13,9 @@ section:nth-child(4) {
 section:nth-child(5) {
     background-color: rgb(255, 145, 0);
 }
+section:nth-child(6) {
+    background-color: darkmagenta;
+}
 h3:nth-child(odd) {
     color:pink;
 }

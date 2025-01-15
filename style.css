@@ -13,3 +13,18 @@ section:nth-child(4) {
 section:nth-child(5) {
     background-color: rgb(255, 145, 0);
 }
+h3:nth-child(odd) {
+    color:pink;
+}
+p:nth-child(3) {
+    color:grey;
+}
+div:nth-child(5) {
+    color:red;
+}
+p:nth-child(7) {
+    color:green;
+}
+.yellow:last-child{
+    color:yellow;
+}
